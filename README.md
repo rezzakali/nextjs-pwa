@@ -67,3 +67,29 @@ This project is licensed under the MIT License. You can find the license details
 Here are some helpful resources to learn more about Next.js and PWAs:
 
 Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
+
+### Important Links
+
+1. icongen - Web and App icons and PNG favicons
+
+```bash
+https://cthedot.de/icongen
+```
+
+2. next-pwa npm package
+
+```bash
+https://www.npmjs.com/package/next-pwa
+```
+
+3. manifest.json file generator
+
+```bash
+https://www.simicart.com/manifest-generator.html
+```
+
+4. Add a web app manifest (Create the manifest file)
+
+```bash
+https://web.dev/add-manifest
+```
