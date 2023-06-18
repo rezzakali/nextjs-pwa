@@ -67,8 +67,3 @@ This project is licensed under the MIT License. You can find the license details
 Here are some helpful resources to learn more about Next.js and PWAs:
 
 - Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
--
-
-```
-
-```
