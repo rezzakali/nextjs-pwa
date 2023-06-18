@@ -43,15 +43,15 @@ yarn install
 ```
 
 3. Configure the necessary environment variables (if any).
+
 4. Start the development server
-   ``bash
-   npm run dev
 
+```bash
+npm run dev
 # or
-
 yarn dev
-
 ```
+
 5. Open your browser and navigate to `http://localhost:3000` to see the app in action.
 
 ### Contributing
@@ -68,4 +68,7 @@ Here are some helpful resources to learn more about Next.js and PWAs:
 
 - Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
 -
+
+```
+
 ```
