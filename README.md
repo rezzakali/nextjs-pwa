@@ -28,10 +28,30 @@ This is a Progressive Web Application (PWA) built with Next.js, a powerful React
 
 To get started with this Next.js PWA app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rezzakali/nextjs-pwa.git`
-2. Install dependencies: `npm install` or `yarn install`
+1. Clone the repository
+
+```bash
+git clone https://github.com/rezzakali/nextjs-pwa.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
+# or
+yarn install
+```
+
 3. Configure the necessary environment variables (if any).
-4. Start the development server: `npm run dev` or `yarn dev`
+4. Start the development server
+   ``bash
+   npm run dev
+
+# or
+
+yarn dev
+
+```
 5. Open your browser and navigate to `http://localhost:3000` to see the app in action.
 
 ### Contributing
@@ -48,3 +68,4 @@ Here are some helpful resources to learn more about Next.js and PWAs:
 
 - Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
 -
+```
